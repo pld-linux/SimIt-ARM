@@ -1,5 +1,5 @@
 Summary:	Very fast functional and cycle-accurate simulators for ARM
-Summary(pl.UTF-8):   Bardzo szybkie funkcjonalne i dokładne co do cyklu symulatory ARM-a
+Summary(pl.UTF-8):	Bardzo szybkie funkcjonalne i dokładne co do cyklu symulatory ARM-a
 Name:		SimIt-ARM
 Version:	2.1
 Release:	0.1
