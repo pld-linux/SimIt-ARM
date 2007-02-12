@@ -1,5 +1,5 @@
 Summary:	Very fast functional and cycle-accurate simulators for ARM
-Summary(pl):	Bardzo szybkie funkcjonalne i dok³adne co do cyklu symulatory ARM-a
+Summary(pl.UTF-8):   Bardzo szybkie funkcjonalne i dokÅ‚adne co do cyklu symulatory ARM-a
 Name:		SimIt-ARM
 Version:	2.1
 Release:	0.1
@@ -27,14 +27,14 @@ StrongARM architecture. Both simulators read ELF32 little-endian
 ARM-linux binaries and can simulate most of the SPEC Int and SPEC FP
 benchmarks.
 
-%description -l pl
-SimIt-ARM powsta³ do demonstracji przydatno¶ci modelu OSM (Operation
-State Machine - automatu operacji) oraz jêzyka MADL (Mescal
+%description -l pl.UTF-8
+SimIt-ARM powstaÅ‚ do demonstracji przydatnoÅ›ci modelu OSM (Operation
+State Machine - automatu operacji) oraz jÄ™zyka MADL (Mescal
 Architecture Description Language). Pakiet zawiera symulator zestawu
-instrukcji (czasem zwany emulatorem) oraz dok³adny co do cyklu
-symulator architektury StrongARM. Oba symulatory czytaj± binaria ELF32
-little-endian dla platformy ARM-linux i mog± symulowaæ wiêkszo¶æ
-testów wydajno¶ciowych SPEC Int i SPEC FP.
+instrukcji (czasem zwany emulatorem) oraz dokÅ‚adny co do cyklu
+symulator architektury StrongARM. Oba symulatory czytajÄ… binaria ELF32
+little-endian dla platformy ARM-linux i mogÄ… symulowaÄ‡ wiÄ™kszoÅ›Ä‡
+testÃ³w wydajnoÅ›ciowych SPEC Int i SPEC FP.
 
 %prep
 %setup -q
